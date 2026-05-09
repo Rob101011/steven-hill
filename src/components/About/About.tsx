@@ -51,7 +51,7 @@ export function About({ id = 'about' }: AboutProps) {
               With over 15 years of hands-on experience, Steven Hill is a fully qualified independent mechanic serving Gomersal, Cleckheaton, and the wider West Yorkshire area. Steven built his reputation on one simple principle — doing the job right the first time.
             </Typography>
             <Typography variant="body1" sx={{ color: 'text.secondary', mb: 4 }}>
-              As a sole trader, Steven gives every vehicle his personal attention. There are no shortcuts, no upsells — just honest, expert motor servicing at a fair price. Whether it's a routine oil change or a complex engine repair, you'll always know exactly what work is being done and why.
+              Honest, expert motor servicing at a fair price. Whether it's a routine oil change or a complex engine repair, you'll always know exactly what work is being done and why.
             </Typography>
 
             {/* Stats */}
